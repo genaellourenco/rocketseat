@@ -39,7 +39,10 @@ h1{
 }
 
 .p-title {
-    margin-bottom: 32px;
+    margin-top: 15px;
+    margin-bottom: 33px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgba(0, 0, 0, 0.8);
 }
 
 .section1, .section2 {
@@ -72,6 +75,11 @@ h1{
 .descr-itens {
    padding-top: 8px;
    padding-bottom: 16px;
+   color: rgba(0, 0, 0, 0.718);
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   line-height: 22px ;
+
+
 }
 
 span {
